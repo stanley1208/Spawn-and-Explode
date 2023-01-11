@@ -1,2 +1,2 @@
-# Spawn-and-Explode
-Spawn and Explode the TeddyBear
+# learning C# and Unity through Coursera online course
+
