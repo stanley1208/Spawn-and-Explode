@@ -1,2 +1,2 @@
-# learning C# and Unity through Coursera online course
+# Learning C# and Unity through Coursera online course
 
